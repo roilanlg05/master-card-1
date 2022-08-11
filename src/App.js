@@ -16,8 +16,8 @@ Vue.createApp({
         let res = await fetch(API)
         let products = await res.json()
         console.log(products)
-      } catch (e) {
-        console.log(e)
+      } catch (er) {
+        console.log(er)
       }
     },
     
