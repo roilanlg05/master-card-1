@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Short Gris", 
+    "precio": 100, 
+    "img": "",
+    "category": "sport"
+  },
+  {
+    "name": "Blusa negra", 
+    "precio": 150, 
+    "img": "",
+    "category": "formal"
+  },
+  {
+    "name": "Nike Zoom", 
+    "precio": 280, 
+    "img": "",
+    "category": "shoes"
+  },
+  {
+    "name": "Raybon Glass", 
+    "precio": 50, 
+    "img": "",
+    "category": "glass"
+  },
+  {
+    "name": "Pullover rojo", 
+    "precio":120, 
+    "img": "",
+    "category": "sport"
+  }
+]

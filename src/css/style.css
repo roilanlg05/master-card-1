@@ -1,0 +1,27 @@
+.card{
+  width: 300px;
+  height: 460px
+}
+
+.img_container {
+  width: 300px;
+  margin: 0 auto;
+  height: 270px;
+  border-bottom: 1px solid lightgray;
+  overflow: hidden;
+}
+
+.img {
+  width: 100%;
+}
+
+.card{
+  padding: 0;
+  border: none
+}
+
+.fav{
+  width: 30px;
+  height: 30px;
+  border: 3px solid;
+}
